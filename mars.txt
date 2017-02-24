@@ -3,3 +3,5 @@ The planet Mars is red.
 It is the fourth planet.
 
 Mars is smaller than the Earth. It is very sensitive about this.
+
+I have created a file named venus.txt and written a line of text in it.
